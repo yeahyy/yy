@@ -763,9 +763,9 @@ footer a:hover {
   height: 0;
   clear: both;
   visibility: hidden;
-  content: '.';
+  
 }
-
+/* content: '.';*/
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
